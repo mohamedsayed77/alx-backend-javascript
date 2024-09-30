@@ -1,1 +1,1 @@
-this readme file for ESG basics
+this readme file for ES6 basics
