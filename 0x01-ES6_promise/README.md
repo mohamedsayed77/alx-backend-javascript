@@ -1,0 +1,1 @@
+this is my readme file for es6 promise
